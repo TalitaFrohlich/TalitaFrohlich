@@ -12,12 +12,6 @@
 
 - ✉️ Você pode me encontrar também pelo e-mail tsribeiro@live.com. 
 
-- 🌐 Conecte-se comigo:
-- Twitter: https://twitter.com/TaliRiibeiro
-- LinkedIn: https://www.linkedin.com/in/ribeirotalita/
-- Instagram: https://www.instagram.com/taliriibeiro/
-- Facebook: https://www.facebook.com/Talita.SRibeiro/
-
 Vamos conectar e construir algo incrível juntos!
 
 <!---
